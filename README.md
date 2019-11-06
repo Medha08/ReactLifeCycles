@@ -1,2 +1,0 @@
-# ReactLifeCycles
-Created with CodeSandbox
